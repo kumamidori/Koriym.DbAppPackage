@@ -5,7 +5,7 @@
     "require": {
         "bear/aura-router-module": "~1.0",
         "bear/package": "~1.0",
-        "josegonzalez/dotenv": "~2.0",
+        "josegonzalez/dotenv": "~3.0",
         "koriym/query-locator": "~1.0",
         "koriym/now": "~1.0",
         "robmorgan/phinx": "~0.5",
